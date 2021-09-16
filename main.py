@@ -1,4 +1,4 @@
-rom turtle import *
+from turtle import *
 Screen().bgcolor("red")
 speed(0)
 for i in range(100):
